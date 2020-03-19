@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+./src/request/__pycache__
+./src/img/svg
+*.svg

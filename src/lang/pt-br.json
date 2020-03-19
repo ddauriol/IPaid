@@ -1,0 +1,73 @@
+{
+    "pt-br": [{
+        "MENU": {
+            "text-01": "Inicial",
+            "text-02": "Procurar",
+            "text-03": "Ajuda"
+        },
+        "SL-01": {
+            "text-01": "A embalagem faz parte do produto",
+            "text-02": "Experiências ruins com as embalagens, afeta a nossa percepção sobre o produto",
+            "text-03": "Pular"
+        },
+        "SL-02": {
+            "text-01": "Sua opinião pessoal é muito importante",
+            "text-02": "Expresse o que lhe incomoda ou que lhe agrada",
+            "text-03": "Pular"
+        },
+        "SL-03": {
+            "text-01": "Fale direto com os fabricantes",
+            "text-02": "Os dados, de forma anônima, estrão disponíveis para os fabricantes consultarem",
+            "text-03": "Pular"
+        },
+        "SL-04": {
+            "text-01": "Avalie agora!",
+            "text-02": "Os dados, de forma anônima, estrão disponíveis para os fabricantes consultarem.",
+            "text-03": "Avaliar"
+        },
+        "MAIN-01": {
+            "text-01": "Código de barra, Nome ou Marca",
+            "text-02": "Procurar",
+            "text-03": "Avaliar",
+            "text-04": "Cancelar"
+        },
+        "QUALITY": {
+            "Formato": [
+                "Anatômico",
+                "Muito grande",
+                "Muito pequeno",
+                "Adequado",
+                "Escorregadio",
+                "Perigoso",
+                "Dosado ruim",
+                "Fácil abertura e fechamento",
+                "Difícil abertura e fechamento"
+            ],
+            "Material": [
+                "Frágil",
+                "Não reciclável",
+                "Contaminate",
+                "Perigoso",
+                "Excesso de material",
+                "Falta material",
+                "Sem resistência"
+            ],
+            "Conteúdo": [
+                "Não sai facilmente",
+                "Sai em excesso",
+                "Difícil retirada",
+                "Sobra de material",
+                "Inconsistência",
+                "Adequado",
+                "Escorre",
+                "Espirra",
+                "Derrama"
+            ],
+            "Informações": [
+                "Insuficiente",
+                "Confusa",
+                "Incorreta"
+            ]
+        }
+    }]
+}
